@@ -39,4 +39,4 @@ Example: `python convert_to_x1y1wh.py poster_panel_position.npy poster_panel_pos
 
 See [src\visualization.ipynb](src\visualization.ipynb)
 
-![Visualization](asset\visualization.png)
+![Visualization](https://github.com/kitman0000/Sci-PosterLayout-Data/blob/main/asset/visualization.png?raw=true)

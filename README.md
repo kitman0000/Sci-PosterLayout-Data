@@ -2,7 +2,7 @@
 
 ## Introduction
 
-{Add introduction here}
+Data release of the Sci-PosterLayout. Model code is coming soon on github.
 
 ## Download
 
@@ -40,3 +40,7 @@ Example: `python convert_to_x1y1wh.py poster_panel_position.npy poster_panel_pos
 See [[src\visualization.ipynb](https://github.com/kitman0000/Sci-PosterLayout-Data/blob/main/src/visualization.ipynb)]
 
 ![Visualization](https://github.com/kitman0000/Sci-PosterLayout-Data/blob/main/asset/visualization.png?raw=true)
+
+### Model Code Repository
+
+Coming soon on github!

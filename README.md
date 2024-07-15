@@ -37,6 +37,6 @@ Example: `python convert_to_x1y1wh.py poster_panel_position.npy poster_panel_pos
 
 ### Visualize the layouts
 
-See [src\visualization.ipynb](src\visualization.ipynb)
+See [[src\visualization.ipynb](https://github.com/kitman0000/Sci-PosterLayout-Data/blob/main/src/visualization.ipynb)]
 
-![Visualization](asset\visualization.png)
+![Visualization](https://github.com/kitman0000/Sci-PosterLayout-Data/blob/main/asset/visualization.png?raw=true)
